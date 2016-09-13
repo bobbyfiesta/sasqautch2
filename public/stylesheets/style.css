@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+
+h1{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 575%;
+	color:#66d9ff;
+	background:url(https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg)fixed center 100%;
+	text-transform: uppercase;
+	letter-spacing: 2%;
+	padding-top: 20%;
+	padding-bottom: 30%;
+}
+
+h2{
+    font-family: 'Kurale', serif;
+	text-align: center;
+	font-size: 400%;
+	color:#595959;
+	letter-spacing: 1%;
+}
+
+/* start parralax*/
+.section2{text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 575%;
+	color:#66d9ff;
+	background:url(https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg)fixed center 100%;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	border-color: grey;
+	border: 7% 0;
+
+	padding-top: 15%;
+	padding-bottom: 15%;
+
+}
+
+.parralax{
+	background-color: #f2f2f2;
+}
+
+.parralax-inner{
+	font-family: 'Kurale', serif;
+	margin-left: 5%;
+	margin-right:5%;
+	padding-top: 8%;
+	padding-bottom: 8%;
+
+}
+
+.parralax-inner2{
+	float: right;
+	font-size: 375%;
+	margin-left: 5%;
+	margin-right:10%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	text-transform: uppercase;
+	background-color: #f2f2f2;
+
+}
+
+li{
+	background-color: #f2f2f2;
+	display:inline;
+}
+
+a{
+  text-decoration: none;
+  color:#595959;
+
+
+}
+
+a:hover{
+	text-decoration: none;
+	color:#80002a;
+}
+
+h3{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 475%;
+	color:#66d9ff;
+	text-transform: uppercase;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background-color: #808080;
+
+}
+
+body{
+	background-color: #f2f2f2;
+}
+
+
+.page2{
+	margin-bottom:8%;
+}
+
+
+
